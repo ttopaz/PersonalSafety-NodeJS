@@ -1,0 +1,22 @@
+{
+  "name": "PersonalSafety",
+  "version": "0.0.0",
+  "description": "PersonalSafety",
+  "main": "app.js",
+  "author": {
+    "name": "Tony",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*",
+    "mongodb": "~1.4.7",
+    "mongojs": "~0.12.1",
+    "jwt-simple": "~0.2.0",
+    "crypto": "0.0.3",
+    "uuid": "~1.4.1",
+    "kerberos": "0.0.3",
+    "async": "~0.9.0"
+  }
+}
