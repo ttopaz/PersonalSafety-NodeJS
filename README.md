@@ -28,7 +28,7 @@ Execute the following to create the 'tracks' database and needed collections:
 ~~~
 
 ### Users collection
-'''
+~~~
 _id
 name
 user
