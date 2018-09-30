@@ -71,7 +71,7 @@ Execute the following to create the 'tracks' database and needed collections:
 {
   "_id" : ObjectId("58bce9e7a3b39d9003a77abe"),
   "TargetCreated" : "Mar 5, 2017 11:47:34 PM",
-  "TargetUserId" : "7703559717",
+  "TargetUserId" : "",
   "TargetUserName" : "Me",
   "TicketId" : "58bce9cca3b39d9003a77abc",
   "Active" : false,
