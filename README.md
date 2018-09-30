@@ -27,7 +27,14 @@ Execute the following to create the 'tracks' database and needed collections:
 > db.createCollection("ticket_users")
 ~~~
 
-
+### Users collection
+'''
+_id
+name
+user
+passwordHash
+salt
+~~~
 
 
 
