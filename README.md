@@ -1,6 +1,6 @@
 ﻿# PersonalSafety-NodeJS
  
- This is an API backend for the Personal Safety project. Its using MongoDB for tracking trails.
+ This is an API backend for the Personal Safety project. It's using MongoDB for tracking trails.
  
  ## MongoDB configuration
  
