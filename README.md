@@ -26,8 +26,8 @@ Execute the following to create the 'tracks' database and needed collections:
 > db.createCollection("tickets")
 > db.createCollection("ticket_users")
 ~~~
-
-### users collection
+### Collections
+<b>users</b>
 ~~~
 {
   "_id" : ObjectId("53670f349514d3981af79dfe"),
@@ -37,7 +37,7 @@ Execute the following to create the 'tracks' database and needed collections:
   "salt" : ""
 }
 ~~~
-### trails collection
+### trails
 ~~~
 {
   "_id" : ObjectId("58a9ecd1c87274d035bf31d2"),
@@ -52,7 +52,7 @@ Execute the following to create the 'tracks' database and needed collections:
   "Time" : 1487531217000.0
 }
 ~~~
-### tickets collection
+### tickets
 ~~~
 {
   "_id" : ObjectId("58bcbca0a3b39d9003a77a93"),
@@ -66,7 +66,7 @@ Execute the following to create the 'tracks' database and needed collections:
   "UserName" : "My Info"
 }
 ~~~
-### ticket_users collection
+### ticket_users
 ~~~
 {
   "_id" : ObjectId("58bce9e7a3b39d9003a77abe"),
