@@ -18,7 +18,7 @@ Start MongoDB shell by running
 mongo
 ~~~
 
-Execute the following to create the 'tracks' database and collections:
+Execute the following to create the 'tracks' database and needed collections:
 ~~~
 > use tracks
 > db.createCollection("users")
