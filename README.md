@@ -1,6 +1,6 @@
-﻿# PersonalSafety-NodeJS
+﻿# SportTrack-NodeJS
  
- This is an API backend for the Personal Safety project. It's using MongoDB for tracking trails.
+ This is an API backend for the Sport Track project. It's using MongoDB.
  
  ## MongoDB configuration
  
@@ -11,7 +11,7 @@
  mongod
  ~~~
  
-By default, MongoDB is listening on port 27017, but can be changed in config file. Make sure to change the db.js to use the appropriate port.
+By default, MongoDB is listening on port 27017, but this can be changed in config file. Make sure to change the db.js to use the appropriate port as well.
 
 Start MongoDB shell by running
 ~~~
